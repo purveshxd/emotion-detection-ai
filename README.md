@@ -1,7 +1,6 @@
 # Emotion Detection
 
-A machine learning project made as a college project that uses machine learning and computer vision to detect human emotion.
-Integrated a custom-made ML model with the Flutter app using the tflite_v2 package, and converted the model to a tflite model using tensorflow.
+This college-based ML project harnesses machine learning and computer vision to detect human emotion. It seamlessly integrates a custom ML model into a Flutter app using the tflite_v2 package. Plus, we've transformed the model into a tflite version with TensorFlow. Feel the power of emotion detection!"
 
 ### [Link to the apk](https://drive.google.com/file/d/11nXlnrEFiMoZmxmK7h2Zm07n0E2pCV7E/view?usp=drive_link)
 
