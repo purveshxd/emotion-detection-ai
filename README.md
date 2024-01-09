@@ -1,16 +1,17 @@
-# emotion_detection_app
+# Emotion Detection
 
-A new Flutter project.
+A machine learning project made as a college project that uses machine learning and computer vision to detect human emotion.
+Integrated a custom-made ML model with the Flutter app using the tflite_v2 package, and converted the model to a tflite model using tensorflow.
 
-## Getting Started
+### [Link to the apk](https://drive.google.com/file/d/11nXlnrEFiMoZmxmK7h2Zm07n0E2pCV7E/view?usp=drive_link)
 
-This project is a starting point for a Flutter application.
+## Pages/UI
 
-A few resources to get you started if this is your first Flutter project:
+![emotion detection](https://github.com/purveshxd/emotion-detection-ai/blob/main/media/emotion%20detection.png "banner")
+![emotion detection](https://github.com/purveshxd/emotion-detection-ai/blob/main/media/emotion%20detection-1.png "banner")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Development status
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I've added everything I wanted to add for my personal needs. If requested, I can add more features, but unless I come up with more ideas on functionalities or find bugs while using it, the development will be on pause for now.
+
+Adding a monthly income, then as you spend keeping track of the expense, that gets subtracted from your total amount.
